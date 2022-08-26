@@ -1,0 +1,297 @@
+/*
+Theme Name: Drox
+Theme URI: http://themewar.com/html/drox/
+Author: ThemeWar
+Author URI: http://themewar.com/
+Description: Drox - Agency & Portfolio HTML5 Responsive Template
+Version: 1.0
+License:
+License URI:
+*/
+
+.info_sections{
+    position: relative;
+    padding: 130px 0;
+}
+.pdt90{
+    padding-top: 90px;
+}
+.portfolio_sec_01{
+    position: relative;
+}
+.portfolio_sec_01 .slide_style{
+    margin-bottom: 0;
+}
+.features_section{
+    padding: 130px 0 63px;
+}
+.client_sections{
+    background: #f7f7f7;
+    padding: 118px 0 117px;
+}
+.video_section {
+    height: 580px;
+    position: relative;
+    background: url(../images/bg/4.jpg) no-repeat fixed center center / cover;
+}
+.v_align_middle{
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+}
+.latest_news_section{
+    padding: 121px 0 116px;
+}
+.call_to_action_section{
+    position: relative;
+    background: url(../images/bg/5.jpg) no-repeat center center / cover;
+    padding: 127px 0 123px;
+}
+.features_section_2{
+    position: relative;
+    padding-top: 5px;
+}
+.pdlr5{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.portfolio_sec_02{
+    position: relative;
+    padding: 100px 0 0;
+}
+.client_sections_2{
+    position: relative;
+    padding: 90px 0 120px;
+}
+.member_section_1{
+    position: relative;
+    background: #f7f7f7;
+    padding: 0 0 50px;
+}
+.skill_section{
+    position: relative;
+    padding: 130px 0 77px;
+}
+.testimonial_section{
+    background: url(../images/bg/6.jpg) no-repeat fixed center center / cover;
+    padding: 211px 0 221px;
+}
+.call_to_action_section_2{
+    position: relative;
+    background: url(../images/bg/7.png) no-repeat fixed center center #1fb4cc;
+    padding: 127px 0 123px;
+    margin-top: 8px;
+}
+.cta_white.cta_content p{
+    color: #FFF;
+}
+.cta_white.cta_content h2{
+    color: #FFF;
+}
+.pdl6{
+    padding-left: 6px;
+}
+.banner_01{
+    position: relative;
+    background: url(../images/bg/9.jpg) no-repeat center center / cover;
+    padding: 80px 0 0;
+}
+.portfolio_sec_03{
+    padding: 45px 0 7px;
+}
+.row.noMarginRow{
+    margin-left: 0;
+    margin-right: 0;
+}
+.call_to_action_section_3{
+    position: relative;
+    background: url(../images/bg/5.jpg) no-repeat center top;
+    padding: 119px 0 77px;
+    margin-bottom: 19px;
+}
+.pdt12{
+    padding-top: 12px;
+}
+.folio_section{
+    padding: 30px 15px 0;
+}
+.call_to_action_section_4{
+    background: url(../images/bg/12.png) no-repeat center center / cover #f7f7f7;
+    padding: 125px 0 95px;
+}
+.folio_04.mb_20{
+    margin-bottom: 20px;
+}
+.video_section_2 {
+    height: 580px;
+    position: relative;
+    background: url(../images/bg/7.jpg) no-repeat fixed center center / cover;
+}
+.noPaddingBottom{
+    padding-bottom: 0;
+}
+.portfolio_sec_04{
+    padding-top: 70px;
+    padding-bottom: 100px
+}
+.inner_page_banner.b_bg_2{
+    background: url(../images/bg/banner2.jpg) no-repeat center center / cover;
+}
+.inner_page_banner.team_bg_2{
+    background: url(../images/bg/banner3.jpg) no-repeat center center / cover;
+}
+.inner_page_banner.price_bg_2{
+    background: url(../images/bg/banner4.jpg) no-repeat center center / cover;
+}
+.inner_page_banner.faq_b_bg{
+    background: url(../images/bg/banner5.jpg) no-repeat center center / cover;
+}
+.inner_page_banner.blog_b_bg{
+    background: url(../images/bg/blog_banner.jpg) no-repeat center center / cover;
+}
+.inner_page_banner_2.blog_single_bg{
+    background: url(../images/bg/blog_single_banner.jpg) no-repeat center center / cover;
+}
+.inner_page_banner.shop_b_bg{
+    background: url(../images/bg/shop_banner.jpg) no-repeat center center / cover;
+}
+.inner_page_banner.bg_f_page{
+    background: url(../images/bg/banner6.jpg) no-repeat center center / cover;
+}
+.inner_page_banner.ab_bg{
+    background: url(../images/bg/banner7.jpg) no-repeat center center / cover;
+}
+.inner_page_banner_2.ab_bg_2{
+    background: url(../images/bg/banner8.jpg) no-repeat center center / cover;
+}
+.inner_page_banner_2.ab_bg_3{
+    background: url(../images/bg/banner9.jpg) no-repeat center center / cover;
+}
+.test_bg_2{
+    background: url(../images/bg/8.jpg) no-repeat fixed center center / cover;
+}
+.test_bg_3{
+    background: url(../images/bg/10.jpg) no-repeat fixed center center / cover;
+}
+.features_section_3{
+    padding: 125px 0 60px;
+}
+.pricing_section{
+    position: relative;
+    background: url(../images/bg/13.png) no-repeat center center / cover #f7f7f7;
+    padding: 125px 0 130px;
+}
+.team_page_section{
+    position: relative;
+    padding: 130px 0 60px;
+}
+.skill_section.pd_B_67{
+    padding-bottom: 67px;
+    padding-top: 40px;
+}
+.call_to_action_section_2.mt_0{
+    margin-top: 0;
+}
+.pricing_page_section_1{
+    background: #fff;
+    padding: 125px 0 130px;
+}
+.pricing_page_section_2{
+    background: #fff;
+    padding: 125px 0 130px;
+}
+.faq_section{
+    position: relative;
+    background: url(../images/bg/13.png) no-repeat center center / cover #f7f7f7;
+    padding: 125px 0 100px;
+}
+.faq_section_page{
+    position: relative;
+    background: #fff;
+    padding: 125px 0 100px;
+}
+.map_banner_section{
+    position: relative;
+}
+.contact_section{
+    position: relative;
+    padding: 125px 0 130px;
+}
+.contact_section .sec_titles{
+    margin: 0;
+}
+.contact_section p{
+    margin-bottom: 21px; 
+    margin-top: 5px;
+}
+.mt_90{
+    margin-top: 90px;
+}
+.contact_box{
+    position: relative;
+    background: url(../images/bg/13.png) no-repeat center center / cover #f7f7f7;
+    padding: 90px 0 82px;
+}
+.address_box{
+    position: relative;
+}
+.address_box h5{
+    font-size: 18px;
+    line-height: .8;
+    font-weight: 600;
+    color: #232931;
+    margin: 0 0 23px;
+}
+.address_box p{
+    margin: 0;
+    line-height: 25px;
+}
+.call_to_action_section_5 {
+    position: relative;
+    background: url(../images/bg/7.png) no-repeat fixed center center #1fb4cc;
+    padding: 91px 0 71px;
+}
+.header_banner{
+    position: relative;
+    height: 300px;
+    background: url(../images/bg/h_bg_1.jpg) no-repeat center center / cover;
+}
+.header_banner:after{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    content: '';
+    background: rgba(23, 25, 27, .5);
+}
+.hb_2{
+    background: url(../images/bg/f_banner_1.jpg) no-repeat center center / cover;
+}
+.hb_3{
+    background: url(../images/bg/9.jpg) no-repeat center center / cover;
+}
+.hb_3:after{
+    display: none;
+}
+.hb_4{
+    background: url(../images/bg/h_bg_2.jpg) no-repeat center center / cover;
+}
+.hb_6:after,
+.hb_7:after,
+.hb_5:after{
+    display: none;
+}
+.hb_5{
+    background: url(../images/bg/12.png) no-repeat center center / cover #fff;
+}
+.hb_6{
+    background: url(../images/bg/12.png) no-repeat center center / cover #f7f7f7;
+}
+.hb_7{
+    background: #fff;
+    height: 100%;
+}
+
